@@ -3,6 +3,12 @@
 
 
 
+<a name="v1.24.1"></a>
+## [v1.24.1] - 2019-10-04
+
+- Added ami to lifecycle ignore
+
+
 <a name="v1.24.0"></a>
 ## [v1.24.0] - 2019-06-06
 
